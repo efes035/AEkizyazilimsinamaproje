@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yazilimsinama", "yazilimsinama.csproj", "{7A2A0F0A-F076-49A7-B82E-A51348651724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitYazilimSinama1", "..\XUnitYazilimSinama1\XUnitYazilimSinama1.csproj", "{8B2F26AE-9BD0-4E7F-BD3F-5F0C6805AECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2A0F0A-F076-49A7-B82E-A51348651724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2A0F0A-F076-49A7-B82E-A51348651724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2A0F0A-F076-49A7-B82E-A51348651724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2A0F0A-F076-49A7-B82E-A51348651724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2F26AE-9BD0-4E7F-BD3F-5F0C6805AECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2F26AE-9BD0-4E7F-BD3F-5F0C6805AECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2F26AE-9BD0-4E7F-BD3F-5F0C6805AECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2F26AE-9BD0-4E7F-BD3F-5F0C6805AECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7112136-0B0B-4757-B78E-AD7DCEC8C817}
+	EndGlobalSection
+EndGlobal
